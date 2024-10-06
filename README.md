@@ -10,4 +10,5 @@ Here are a few of my skills so far:
 * Premiere Pro
 
 ## Social Media
-If you want to get a hold of me, you can catch me on [LinkedIn](www.linkedin.com/in/jcarlos1428).
+If you want to get a hold of me, you can catch me on [LinkedIn]([www.linkedin.com/in/jcarlos1428](https://www.linkedin.com/in/jcarlos1428/).
+                                                              
